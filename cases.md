@@ -3,4 +3,4 @@ layout: page
 title: Cases
 permalink: /cases/
 ---
-Some content here.
+This page will be updated as the project progresses.

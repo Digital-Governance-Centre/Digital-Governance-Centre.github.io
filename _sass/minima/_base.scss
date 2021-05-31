@@ -334,7 +334,19 @@ table {
     position: relative;
     bottom: 0;
   }
+  .navbar-brand {
+    width: 70%;
+  }
+
 }
 .rounded {
     border-radius: 5px !important;
+}
+
+
+/** Footer **/
+
+#footer-container {
+  background-color: #eeeeee;
+  border-top: 1px solid gainsboro;
 }

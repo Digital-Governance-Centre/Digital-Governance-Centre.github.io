@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-Some content here.
+This page will be updated as the project progresses.
